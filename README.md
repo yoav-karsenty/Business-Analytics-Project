@@ -15,9 +15,9 @@ Step 3. Write a conclusion: advise marketing experts how much money to invest an
 
 # Skills demonstrated :
 1. Making reports and calculateing metrics: 
-  - Cohort analysis :calculating retention rate, ltv value, average purchase size 
-  - Calculating daily,weekly and monthly active users
-  - Marketing costs
+   - Cohort analysis :calculating retention rate, ltv value, average purchase size 
+   - Calculating daily,weekly and monthly active users
+   - Marketing costs
 2. Visualisation tools: 
    - plotly.express
    - plotly.graph_objects
